@@ -3,7 +3,7 @@ UI/UX design project including wireframes and high-fidelity designs for a travel
 # UI/UX Design Project – CodeAlpha Internship
 
 ## 📌 Project Overview
-This project is part of my UI/UX internship at CodeAlpha. It currently includes wireframes for a Travel Booking App, with high-fidelity UI design in progress.
+This project is part of my UI/UX internship at CodeAlpha. It currently includes wireframes for a  Booking App, with high-fidelity UI design in progress.
 
 ## 🎯 Tasks Status
 - Task 1: Wireframing & Low-Fidelity Design ✅ Completed
